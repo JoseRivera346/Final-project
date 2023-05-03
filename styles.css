@@ -1,0 +1,6 @@
+body{background-color: blue;}
+h1{color: white; font-family: Helvetica;font-size: 40px; border-style: dotted; border-color: black;}
+p{color:white;font-family: Helvetica;font-size: 14px;}
+a{color:white; font-family: Helvetica;font-size: 14px;text-decoration: none;}
+img{border-style: dotted; border-width: 3px; border-color: black;}
+a:hover{color: black;}
